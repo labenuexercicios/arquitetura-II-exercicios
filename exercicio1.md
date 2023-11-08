@@ -13,9 +13,9 @@ CREATE TABLE courses (
 
 INSERT INTO courses (id, name, lessons)
 VALUES
-("c001", "Javascript", 5),
-("c002", "React", 10),
-("c003", "Typescript", 15);
+('c001', 'Javascript', 5),
+('c002', 'React', 10),
+('c003', 'Typescript', 15);
 ```
 ## Atenção
 
