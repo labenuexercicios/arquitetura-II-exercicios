@@ -6,7 +6,7 @@ Implemente também roteamento e erros customizados.
 
 ```sql
 CREATE TABLE courses (
-    id TEXT PRIMARY KEY UNIQUE NOT NULL,
+    id TEXT PRIMARY KEY NOT NULL,
     name TEXT UNIQUE NOT NULL,
     lessons INTEGER NOT NULL
 );
